@@ -1,5 +1,6 @@
-# Power-BI-Dashboard-Portfolio
-
+# Power BI Portfolio
+<br />
+This repository presents some dashboards I've made using Power BI. Links to Dashboards can be found below.
 <br />
 
 ### 1. Sales Dashboard:
